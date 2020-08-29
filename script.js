@@ -13,7 +13,7 @@ function writePassword() {
 function generatePassword() {
   var numberOfChar = prompt("Provide the length of password");
   if (numberOfChar >= 8 && numberOfChar <= 128) {
-    console.log("working");
+    console.log("Working");
   } else {
     alert("Please provide a number netween 8-128!");
     return;
