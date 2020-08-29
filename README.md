@@ -5,4 +5,4 @@ This is an application that generates a random password based on user-selected c
 - The URL of the deployed application.
 - The URL of the GitHub repository.
 
-#SCREENSHOT ![](img/Screen Shot 2020-08-29 at 5.47.01 PM.png)
+#SCREENSHOT ![](img/Screen%20Shot 2020-08-29 at 5.47.01 PM.png)
